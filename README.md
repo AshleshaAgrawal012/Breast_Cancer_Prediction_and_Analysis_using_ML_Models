@@ -1,9 +1,7 @@
 <div style="font-size: 12px;">
 
 # Breast Cancer Prediction & Analysis using ML Models
-
 > Replicating & Extending Published Research on the Wisconsin Diagnostic Breast Cancer Dataset
-
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-green?logo=scikitlearn)](https://scikit-learn.org/)
@@ -14,9 +12,7 @@
 ---
 
 ## Project Overview
-
 This project replicates the analysis and insights from a published research paper on breast cancer classification using machine learning, working on the exact same dataset (Wisconsin Diagnostic Breast Cancer — WDBC). Beyond replication, it critically identifies the limitations of the original research and extends the work with additional experiments and a tuned model variant.
-
 The goal of this work is to demonstrate:
 - Ability to understand and reproduce research-grade ML pipelines
 - Proficiency in exploratory data analysis (EDA) and feature engineering
@@ -24,9 +20,7 @@ The goal of this work is to demonstrate:
 - Critical thinking about research gaps and limitations
 
 ---
-
 ## Dataset
-
 | Property | Value |
 |---|---|
 | Name | Wisconsin Diagnostic Breast Cancer (WDBC) |
@@ -38,17 +32,12 @@ The goal of this work is to demonstrate:
 
 ### Feature Groups
 The 30 input features are computed from digitized images of fine needle aspirate (FNA) of breast masses, describing characteristics of the cell nuclei:
-
 - Mean values — radius, texture, perimeter, area, smoothness, compactness, concavity, concave points, symmetry, fractal dimension
 - Standard error (SE) — same 10 characteristics
 - Worst values — same 10 characteristics (largest mean of the three largest values)
-
 ---
-
 ## Research Replication
-
 This notebook mirrors the methodology of the reference research paper, faithfully reproducing:
-
 | Research Step | Description |
 |---|---|
 | EDA | Class distribution, feature correlations, statistical summaries |
@@ -58,9 +47,7 @@ This notebook mirrors the methodology of the reference research paper, faithfull
 | Visualization | Replicated figures from the paper (distribution plots, heatmaps, bar charts) |
 
 ---
-
 ## ML Models Evaluated
-
 | # | Model | Library |
 |---|---|---|
 | 1 | Support Vector Machine (SVM) | scikit-learn |
@@ -159,20 +146,15 @@ Breast_Cancer_Prediction_and_Analysis_using_ML_Models/
 ---
 
 ## Reference Paper
-
 The analysis in this notebook is based on and extends the following published research:
-
 > Abreastcancerriskpredication andclassification model with ensemble
 learning andbigdatafusion
 Varshali Jaiswala,1, Praneet Saurabhb,1, Umesh Kumar Lilhorec,1, Mayank Pathakd,1,
 Sarita Simaiyac,1, Surjeet Dalale,∗,1
-
 > The original paper is not included in this repository due to copyright. Please access it via the DOI link above or through your institution's library, ResearchGate, or Google Scholar.
-
 ---
 
 ## What This Project Demonstrates
-
 | Skill | Evidence |
 |---|---|
 | Reading & Understanding Research Papers | Reproduced all figures and experiments from the original paper |

@@ -1,5 +1,4 @@
 <div style="font-size: 12px;">
-
 # Breast Cancer Prediction & Analysis using ML Models
 > Replicating & Extending Published Research on the Wisconsin Diagnostic Breast Cancer Dataset
 > 

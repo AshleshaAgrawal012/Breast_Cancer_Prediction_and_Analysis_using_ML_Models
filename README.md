@@ -131,7 +131,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost openpyxl
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/Breast_Cancer_Prediction_and_Analysis_using_ML_Models.git
+   git clone https://github.com/AshleshaAgrawal012/Breast_Cancer_Prediction_and_Analysis_using_ML_Models.git
    cd Breast_Cancer_Prediction_and_Analysis_using_ML_Models
    ```
 
@@ -160,10 +160,12 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost openpyxl
 
 The analysis in this notebook is based on and extends the following published research:
 
-> **"A Breast Cancer Risk Prediction and Classification Model with Ensemble Learning and Big Data Fusion"**
-> Varshali Jaiswal, Praneet Saurabh, Umesh Kumar Lilhore, Mayank Pathak, Sarita Simaiya, Surjeet Dalal
+> Abreastcancerriskpredication andclassification model with ensemble
+learning andbigdatafusion
+Varshali Jaiswala,1, Praneet Saurabhb,1, Umesh Kumar Lilhorec,1, Mayank Pathakd,1,
+Sarita Simaiyac,1, Surjeet Dalale,∗,1
 
-> ⚠️ The original paper is **not included** in this repository due to copyright. Please access it via your institution's library, [ResearchGate](https://www.researchgate.net/), or [Google Scholar](https://scholar.google.com/).
+> ⚠️ The original paper is not included in this repository due to copyright. Please access it via the DOI link above or through your institution's library / [ResearchGate](https://www.researchgate.net/) / [Google Scholar](https://scholar.google.com/).
 
 ---
 

@@ -11,7 +11,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
-
 ## Project Overview
 This project replicates the analysis and insights from a published research paper on breast cancer classification using machine learning, working on the exact same dataset (Wisconsin Diagnostic Breast Cancer — WDBC). Beyond replication, it critically identifies the limitations of the original research and extends the work with additional experiments and a tuned model variant.
 The goal of this work is to demonstrate:
